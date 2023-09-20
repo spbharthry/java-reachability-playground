@@ -1,4 +1,4 @@
-name: Example workflow for Maven using Snyk
+name: Synk SCA - GitHub Action workflow for Maven
 on: push
 jobs:
   security:
